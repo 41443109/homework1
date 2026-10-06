@@ -15,6 +15,6 @@ int A(int m,int n){
 int main(){
     int m,n;
     while(cin>>m>>n){
-    cout<<A(m,n)<<" ";
+    cout<<A(m,n)<<endl;
     }
 }
