@@ -13,7 +13,6 @@ void set(int n,int i,int a[],int size){
         return;
     }
     
-    
     set(n,i+1,a,size);
 
     a[size]=i;
